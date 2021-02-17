@@ -18,7 +18,7 @@
 ### Dionea
 
 We only ever see the correspondence going one way, from Montemiro Ligure. "Ligure" places the town somewhere on the Ligurian coast (the Italian Riviera), and De Rosis tells us of the people who live there being "semi-Genoese" with habits unlike their "Tuscan neighbours". 
-<param ve-map center="Q1256" zoom="2" show-labels>
+<param ve-map center="Q1256" zoom="11" show-labels>
 
 Dionea is repeatedly associated with the symbols and imagery of Aphrodite, in particular the myrtle tree and the dove/pigeon.
 <param ve-image title="Myrtle tree" url="https://static.wikia.nocookie.net/greekmythology/images/a/a7/5db8fdba1ef8f21a8fa48c3d8d9a02dd.jpg">
