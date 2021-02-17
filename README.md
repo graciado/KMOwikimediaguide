@@ -35,11 +35,13 @@ Where are we here?
 
 ### El beso (The Kiss)
 
-As in a number of Bécquer's *leyendas*, we're in Toledo. <param ve-map center="Q2884002" zoom="12" show-labels>
+As in a number of Bécquer's *leyendas*, we're in Toledo. 
+<param ve-map center="Q2884002" zoom="12" show-labels>
 
 ### La ajorca de oro (The Golden Bracelet)
 
-We remain in Toledo and within the Catholic tradition.
+We remain in Toledo and within the Catholic tradition. 
+<param ve-map center="Q5836" zoom="12" show-labels>
 
 ## Henry James
 ### The Last of the Valerii
