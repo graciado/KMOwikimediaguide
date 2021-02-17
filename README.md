@@ -35,6 +35,8 @@ Where are we here?
 
 ### El beso (The Kiss)
 
+<param ve-map center="Q5836" zoom="3" show-labels>
+
 As in a number of Bécquer's *leyendas*, we're in Toledo. 
 
 ### La ajorca de oro (The Golden Bracelet)
