@@ -11,7 +11,10 @@
   <param ve-entity title="Vernon Lee" eid="Q2669614" aliases="Lee">
 
 # Romancing the Gothic: Statues and Divine Retribution
-## <span ve-entity title="Vernon Lee" eid="Q2669614">Vernon Lee</span>
+## Vernon Lee
+
+<span ve-entity title="Vernon Lee" eid="Q2669614">Vernon Lee</span> was a pseudonym for Violet Paget.[^1] Although a British author, she lived for most of her life in Continental Europe and is most associated with Italy. 
+
 ### Dionea
 
 <param ve-image title="Myrtle tree" url="https://static.wikia.nocookie.net/greekmythology/images/a/a7/5db8fdba1ef8f21a8fa48c3d8d9a02dd.jpg">
