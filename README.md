@@ -12,7 +12,7 @@
 ## Vernon Lee[^1]
 ### Dionea
 
-![Image of myrtle](https://static.wikia.nocookie.net/greekmythology/images/a/a7/5db8fdba1ef8f21a8fa48c3d8d9a02dd.jpg)
+<param ve-image title="Myrtle tree" url="https://static.wikia.nocookie.net/greekmythology/images/a/a7/5db8fdba1ef8f21a8fa48c3d8d9a02dd.jpg">
 
 We only ever see the correspondence going one way, from Montemiro Ligure. "Ligure" places the town somewhere on the Ligurian coast (the Italian Riviera), and De Rosis tells us of the people who live there being "semi-Genoese" with habits unlike their "Tuscan neighbours". 
 
