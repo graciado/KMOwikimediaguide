@@ -13,6 +13,9 @@ We only ever see the correspondence going one way, from Montemiro Ligure. "Ligur
 Where are we here?
 
 ## Gustavo Adolfo Bécquer
+
+[Read more about Bécquer and the background to these two *leyendas*.](becquer)
+
 ### El beso (The Kiss)
 
 As in a number of Bécquer's *leyendas*, we're in Toledo. 
