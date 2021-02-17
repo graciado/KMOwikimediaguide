@@ -1,3 +1,13 @@
+<param ve-config
+  title="Romancing the Gothic: Statues and Divine Retribution"
+  source-image="https://iiif.wellcomecollection.org/image/B0009092.jpg/full/2048%2C/0/default.jpg"
+  banner="https://jstor-labs.github.io/plant-humanities/images/banners/peony.jpg"
+  layout="vtl"
+  num-maps="4"
+  num-images="4"
+  num-primary-sources="1"
+  author="Dr Dominique Gracia">
+
 # Romancing the Gothic: Statues and Divine Retribution
 ## Vernon Lee[^1]
 ### Dionea
@@ -14,7 +24,7 @@ Where are we here?
 
 ## Gustavo Adolfo Bécquer
 
-[Read more about Bécquer and the background to these two *leyendas*.](becquer)
+[Read more about Bécquer and the background to these two *leyendas*](becquer).
 
 ### El beso (The Kiss)
 
@@ -28,5 +38,7 @@ We remain in Toledo and within the Catholic tradition.
 ### The Last of the Valerii
 
 James returns us to Italy, this time to
+
+## References
 
 [^1]: For more about Vernon Lee and her work, check out my biographical entry about her on the [Literary Encylopedia](https://www.literaryencyclopedia.com/php/speople.php?rec=true&UID=2677). 
