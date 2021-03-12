@@ -1,5 +1,5 @@
 <param ve-config
-  title="Romancing the Gothic: Statues and Divine Retribution"
+  title="Kent Maps Online project guides: Adding useful images to Wikimedia"
   source-image="https://iiif.wellcomecollection.org/image/B0009092.jpg/full/2048%2C/0/default.jpg"
   banner="https://jstor-labs.github.io/plant-humanities/images/banners/peony.jpg"
   layout="vtl"
@@ -8,46 +8,32 @@
   num-primary-sources="1"
   author="Dr Dominique Gracia">
   
-  <param ve-entity title="Vernon Lee" eid="Q2669614" aliases="Lee">
+# Kent Maps Online project guides
+## Adding useful images to Wikimedia
 
-# Romancing the Gothic: Statues and Divine Retribution
-## Vernon Lee
+Wherever possible, we want to make the images that we use in the [Kent Maps Online](http://kent-maps.online) visual essays available for re-use via [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page).
 
-<span ve-entity title="Vernon Lee" eid="Q2669614">Vernon Lee</span> was a pseudonym for Violet Paget.[^1] Although a British author, she lived for most of her life in Continental Europe and is most associated with Italy. 
+Wikimedia has **lots** of instructional pages about how to go about this, including:
+* [Contributing your own work](https://commons.wikimedia.org/wiki/Commons:Contributing_your_own_work#Step_5:_Describing_the_file)
+* [Project scope of Wikimedia Commons](https://commons.wikimedia.org/wiki/Commons:Project_scope)
+* [Choosing a license](https://commons.wikimedia.org/wiki/Commons:Choosing_a_license)
+* [Geocoding](https://commons.wikimedia.org/wiki/Commons:Geocoding)
+* []()
 
-### Dionea
+The point of this guide is to make it as straightforward as possible for students to upload straightforward files with the creator's permission quickly and effectively. 
 
-We only ever see the correspondence going one way, from Montemiro Ligure. "Ligure" places the town somewhere on the Ligurian coast (the Italian Riviera), and De Rosis tells us of the people who live there being "semi-Genoese" with habits unlike their "Tuscan neighbours". 
-<param ve-map center="Q1256" zoom="8" show-labels>
+This guide largely follows the [Contributing your own work](https://commons.wikimedia.org/wiki/Commons:Contributing_your_own_work#Step_5:_Describing_the_file) instructions, although you're likely working with a picture that someone else has given us permission to put on Wikimedia and use on [Kent Maps Online](http://kent-maps.online).
 
-Dionea is repeatedly associated with the symbols and imagery of Aphrodite, in particular the myrtle tree and the dove/pigeon.
-<param ve-image title="Myrtle tree" url="https://static.wikia.nocookie.net/greekmythology/images/a/a7/5db8fdba1ef8f21a8fa48c3d8d9a02dd.jpg">
+### Before you begin
 
-### The Virgin of the Seven Daggers
+1. You'll need an account with Wikimedia Commons. If you already have an account with another Wiki site, like Wikipedia, you should be able to log in using that. If you don't, you'll have to create a new one via [Create an account](https://commons.wikimedia.org/w/index.php?title=Special:CreateAccount&returnto=Main+Page).
 
-![Image of Black Virgin]
+2. You should be sent one or more images from Michelle Crowther or Carolyn Oulton for uploading. Check that you know which ones are to be uploaded and that you know what they're pictures *of*. If that info isn't in the file title or explained to you beforehand, stop and ask!
 
-Where are we here?
+3. Check that the files you've got are a format that Wikimedia's happy with. The file extensions should be JPEG (or JPG), GIF, PNG or TIFF.
 
-## Gustavo Adolfo Bécquer
+If that's all good, move on!
 
-[Read more about Bécquer and the background to these two *leyendas*](becquer).
+### How-to
 
-### El beso (The Kiss)
-
-As in a number of Bécquer's *leyendas*, we're in Toledo. 
-<param ve-map center="Q2884002" zoom="12" show-labels>
-
-### La ajorca de oro (The Golden Bracelet)
-
-We remain in Toledo and within the Catholic tradition. 
-<param ve-map center="Q5836" zoom="12" show-labels>
-
-## Henry James
-### The Last of the Valerii
-
-James returns us to Italy, this time to
-
-## References
-
-[^1]: For more about Vernon Lee and her work, check out my biographical entry about her on the [Literary Encylopedia](https://www.literaryencyclopedia.com/php/speople.php?rec=true&UID=2677). 
+1. Once you've logged in, you should see "Uploads" in the top right of your screen.
