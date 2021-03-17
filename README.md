@@ -59,6 +59,7 @@ If that's all good, move on!
 > I acknowledge that I cannot withdraw this agreement, and that the content may or may not be kept permanently on a Wikimedia project.
 > \[Sender's name\], Copyright Holder, \[Date\]
 
-3. If they require additional information from the copyright holder, Wikimedia will then ask for it. 
-4. When they've accepted and processed the permissions, the 
-5. A sidenote on permissions: where we're uploading photographs of paintings, there are some complications depending on who took the photograph and who did the painting. You'll get extra guidance about this if it happens!
+3. To make this work, the email has to be very specific. You'll therefore need to provide the copyright holder with all of the right URLs for where their photos now live in Wikimedia. You can find these by logging in to Wikimedia and going to "Uploads" at the very top-right of the page. This will tkae you to a list of all the pictures you have uploaded onto Wikimedia, from which you can copy and paste the URLs to share with the copyright holder.
+4. If they require additional information from the copyright holder, Wikimedia will then ask for it. 
+5. When they've accepted and processed the permissions, Wikimedia volunteers will add to your page that Wikimedia has received correspondence about copyright permissions and holds it in the permissions archive. There's nothing for you to do here.
+6. A sidenote on permissions: where we're uploading photographs of paintings, there are some complications depending on who took the photograph and who did the painting. You'll get extra guidance about this if it happens!
