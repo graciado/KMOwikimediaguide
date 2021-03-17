@@ -1,13 +1,3 @@
-<param ve-config
-  title="Kent Maps Online project guides: Adding useful images to Wikimedia"
-  source-image="https://iiif.wellcomecollection.org/image/B0009092.jpg/full/2048%2C/0/default.jpg"
-  banner="https://jstor-labs.github.io/plant-humanities/images/banners/peony.jpg"
-  layout="vtl"
-  num-maps="4"
-  num-images="4"
-  num-primary-sources="1"
-  author="Dr Dominique Gracia">
-  
 # Kent Maps Online project guides
 ## Adding useful images to Wikimedia
 
